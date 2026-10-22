@@ -1,0 +1,6 @@
+{
+  "name": "ExamKraft",
+  "description": "AI-powered PDF to MCQ test generator and exam preparation simulator for bankers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
